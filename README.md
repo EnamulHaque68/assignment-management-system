@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="docs/assets/assignment.png" alt="Assignment Management System banner" width="100%" />
+  <img src="docs/assignment.png" alt="Assignment Management System banner" width="100%" />
 </p>
 
 <p align="center">
